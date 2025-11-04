@@ -1,6 +1,6 @@
 package com.ohgiraffers.section04.wrapper;
 
-public class Applicaiton2 {
+public class Application2 {
 
     public static void main(String[] args) {
 

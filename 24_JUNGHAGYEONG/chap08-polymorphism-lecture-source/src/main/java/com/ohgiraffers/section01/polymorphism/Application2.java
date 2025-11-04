@@ -1,6 +1,6 @@
 package com.ohgiraffers.section01.polymorphism;
 
-public class Appication2 {
+public class Application2 {
 
     public static void main(String[] args) {
 
@@ -26,5 +26,8 @@ public class Appication2 {
                 System.out.println("호랑이나 토끼가 아닙니다.");
             }
         }
+
+
+
     }
 }
