@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>jdbc driver(comment-xml)</comment>
+<entry key="password">student</entry>
+<entry key="driver">com.mariadb.jdbc.Driver</entry>
+<entry key="url">jdbc:mysql://localhost:3307/test</entry>
+<entry key="username">student</entry>
+</properties>
